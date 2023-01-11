@@ -37,3 +37,14 @@ next-env.d.ts
 
 /.env.local
 /.vscode/settings.json
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/dataSources.local.xml
+/.idea/discord.xml
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f/storage_v2/_src_/schema/mysql.osA4Bg.meta
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f/storage_v2/_src_/schema/mysql.osA4Bg.zip
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f/storage_v2/_src_/schema/performance_schema.kIw0nw.meta
+/.idea/sqldialects.xml
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f/storage_v2/_src_/schema/sys.zb4BAA.meta
+/.idea/dataSources/54b85a65-f231-4f61-9467-0e7772f68b3f/storage_v2/_src_/schema/sys.zb4BAA.zip
