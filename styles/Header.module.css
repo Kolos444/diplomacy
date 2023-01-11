@@ -1,0 +1,17 @@
+.link:visited {
+	color : inherit;
+}
+
+.link {
+	text-decoration : none;
+	font-size: 2rem;
+}
+
+.header {
+	background : rgba(0, 0, 0, 0.2);
+}
+
+.navBar{
+	display: grid;
+	grid-template-columns: 5fr 1fr;
+}
